@@ -6,7 +6,6 @@ typedef vector<vi> vvi;
 
 
 // solo practica de escritura de range queries en matrices 
-x   
 void solve(){
     int n, q;
     cin >> n >> q; 
